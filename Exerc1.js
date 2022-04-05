@@ -3,7 +3,7 @@
 // Venda de Material Esportivo - Cinto de Flag
 
 let valorBola = 250
-let descontoVintePorCento = 250 *(20/100)
+let descontoVintePorCento = valorBola *(20/100)
 let valorComDesconto = valorBola - descontoVintePorCento
 
 console.log(`O valor do seu produto com desconto é ${valorComDesconto}`)
