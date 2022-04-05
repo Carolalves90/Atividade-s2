@@ -1,1 +1,1 @@
-# Atividade-s2
+# Nessa atividade aprendi a criar variaveis no JS 
